@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gilbert </h1>
 
 <p align="center">
-M.S. Electrical & Computer Engineering (CMU Africa) · B.Sc. Electrical Power Engineering (University of Rwanda)<br>
+M.S. Electrical & Computer Engineering (Carnegie Mellon University) · B.Sc. Electrical Power Engineering (University of Rwanda)<br>
 Machine Learning & Data Science | Based in Kigali, Rwanda 🇷🇼
 </p>
 
